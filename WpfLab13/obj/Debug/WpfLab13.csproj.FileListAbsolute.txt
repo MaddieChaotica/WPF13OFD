@@ -1,0 +1,15 @@
+C:\Users\dimad\source\repos\WpfLab13\WpfLab13\bin\Debug\WpfLab13.exe.config
+C:\Users\dimad\source\repos\WpfLab13\WpfLab13\bin\Debug\WpfLab13.exe
+C:\Users\dimad\source\repos\WpfLab13\WpfLab13\bin\Debug\WpfLab13.pdb
+C:\Users\dimad\source\repos\WpfLab13\WpfLab13\obj\Debug\WpfLab13.csproj.AssemblyReference.cache
+C:\Users\dimad\source\repos\WpfLab13\WpfLab13\obj\Debug\MainWindow.g.cs
+C:\Users\dimad\source\repos\WpfLab13\WpfLab13\obj\Debug\App.g.cs
+C:\Users\dimad\source\repos\WpfLab13\WpfLab13\obj\Debug\WpfLab13_MarkupCompile.cache
+C:\Users\dimad\source\repos\WpfLab13\WpfLab13\obj\Debug\WpfLab13_MarkupCompile.lref
+C:\Users\dimad\source\repos\WpfLab13\WpfLab13\obj\Debug\MainWindow.baml
+C:\Users\dimad\source\repos\WpfLab13\WpfLab13\obj\Debug\WpfLab13.g.resources
+C:\Users\dimad\source\repos\WpfLab13\WpfLab13\obj\Debug\WpfLab13.Properties.Resources.resources
+C:\Users\dimad\source\repos\WpfLab13\WpfLab13\obj\Debug\WpfLab13.csproj.GenerateResource.cache
+C:\Users\dimad\source\repos\WpfLab13\WpfLab13\obj\Debug\WpfLab13.csproj.CoreCompileInputs.cache
+C:\Users\dimad\source\repos\WpfLab13\WpfLab13\obj\Debug\WpfLab13.exe
+C:\Users\dimad\source\repos\WpfLab13\WpfLab13\obj\Debug\WpfLab13.pdb

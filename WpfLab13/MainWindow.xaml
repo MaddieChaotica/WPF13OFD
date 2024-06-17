@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfLab13.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfLab13"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Name ="RequestBox" FontSize="20" Grid.Row="1" Width="500" Height="100" Background="AntiqueWhite" HorizontalAlignment="Center"/>
+        <Button Name="Loadfile" Content="Загрузить файл заявки" Width="200" Height="50" VerticalAlignment="Bottom" Click="Loadfile_Click"/>
+        <Button Name="SaveFile" Grid.Row="2" Content="Сохранить заявку" Width="200" Height="50" VerticalAlignment="Top" Click="SaveFile_Click"/>
+
+    </Grid>
+</Window>
